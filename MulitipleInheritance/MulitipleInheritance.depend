@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587192018 source:f:\cpp_basics\mulitipleinheritance\main.cpp
+	<iostream>
+	"SalesPerson.h"
+
+1587192055 f:\cpp_basics\mulitipleinheritance\salesperson.h
+	"SalesManager.h"
+
+1587192052 f:\cpp_basics\mulitipleinheritance\salesmanager.h
+	"Employee.h"
+
+1587191784 f:\cpp_basics\mulitipleinheritance\employee.h
+	<bits/stdc++.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587062280 source:f:\cpp_basics\containment\main.cpp
+	<bits/stdc++.h>
+	"Cdate.h"
+
+1587062304 f:\cpp_basics\containment\cdate.h
+	<bits/stdc++.h>
+

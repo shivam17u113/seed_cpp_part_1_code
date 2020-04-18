@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587222558 source:f:\cpp_basics\exceptionhandling\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"UserException.h"
+
+1587223189 f:\cpp_basics\exceptionhandling\userexception.h
+	<bits/stdc++.h>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587122471 source:f:\cpp_basics\virtualfunction\main.cpp
+	"Employee.h"
+
+1587122444 f:\cpp_basics\virtualfunction\employee.h
+	<bits/stdc++.h>
+

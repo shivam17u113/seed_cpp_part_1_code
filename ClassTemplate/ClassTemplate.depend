@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587227331 source:f:\cpp_basics\classtemplate\main.cpp
+	<iostream>
+	"StackTemplate.h"
+	<stack>
+
+1587226647 f:\cpp_basics\classtemplate\stacktemplate.h
+	<bits/stdc++.h>
+

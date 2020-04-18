@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587124991 source:f:\cpp_basics\abstractclass\main.cpp
+	"Shape.h"
+
+1587125097 f:\cpp_basics\abstractclass\shape.h
+	<bits/stdc++.h>
+
